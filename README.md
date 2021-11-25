@@ -7,3 +7,5 @@ porta: 50000
 
 Come scelta progettuale si è deciso di far inserire porta ed indirizzo all'utente durente l'avvio dell'applicazione del Client.
 Solo nel caso in cui l'utente inserisce address e porta corretti allora la connessione con il server avverrà con successo.
+
+Nota per il professore: abbiamo notato che importando i progetti, questi non presentano winsock32. E' stato necessario settarli nuovamente.
